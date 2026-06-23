@@ -451,7 +451,7 @@ Python, C, Java and DSA.
 
 <p>
 
-B.Tech IT Student at JMIT Radaur
+B.Tech IT Student
 
 </p>
 
@@ -459,7 +459,7 @@ B.Tech IT Student at JMIT Radaur
 
 <p>
 
-Python | SQL | Cybersecurity
+Python | SQL | Cybersecurity AI&ML
 
 </p>
 
